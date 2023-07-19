@@ -18,13 +18,15 @@ Here are some ideas to get you started:
  ###  Hi👋, I'm Abraham Mulat 
 <hr>
 I am a graduate student in software engineering with a deep passion for Computer Vision and Data Science. My objective is to become proficient in the field of Computer Vision and utilize it in real-world applications, particularly in the domain of healthcare. 
-<hr> 
+<br> 
+<br>
 <!--   Jokes  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />  -->
 
 <!-- <img src="https://github.com/AbrahamMulat/AbrahamMulat/blob/main/header.png"> -->
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)](https://github.com/piyushsuthar/github-readme-quotes)
-
+<br>
+<br>
 <h2> 🚀 &nbsp;Languages and Tools I Have Used and Learned</h2>
 <p align="left">
   <!-- The icons are from: https://devicon.dev/ -->
@@ -83,8 +85,10 @@ I am a graduate student in software engineering with a deep passion for Computer
   </a>
 <a href="https://scikit-learn.org/" rel="nofollow"> <img src="https://camo.githubusercontent.com/69ce21304adac467a8251181f98932e1785abd9d718cdd8edc78d1abbf2dcb49/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f302f30352f5363696b69745f6c6561726e5f6c6f676f5f736d616c6c2e737667" alt="scikit_learn" width="40" height="40" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" style="max-width: 100%;"> </a>
   </p>   
+<br> <br>
 
-![](https://komarev.com/ghpvc/?username=AbrahamMulat&style=flat-square) <br>
+![](https://komarev.com/ghpvc/?username=AbrahamMulat&style=flat-square) 
+<br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=AbrahamMulat)](https://github.com/ryo-ma/github-profile-trophy)
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=AbrahamMulat&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
 
