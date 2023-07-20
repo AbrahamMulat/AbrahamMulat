@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 I am a graduate student in software engineering with a deep passion for Computer Vision and Data Science. My objective is to become proficient in the field of Computer Vision and utilize it in real-world applications, particularly in the domain of healthcare. 
 <br> 
 <br>
+<h2> &nbsp;Quotes of the Day</h2>
 <!--   Jokes  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />  -->
-
-<!-- <img src="https://github.com/AbrahamMulat/AbrahamMulat/blob/main/header.png"> -->
+<!-- <img src="https://github.com/AbrahamMulat/AbrahamMulat/blob/main/header.png" /> -->
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)](https://github.com/piyushsuthar/github-readme-quotes)
 <br>
