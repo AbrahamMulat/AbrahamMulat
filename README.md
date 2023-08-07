@@ -1,5 +1,5 @@
 <!-- 
-### Hi there, I'm Abraham Mulat 👋
+### Hi there, I'm Abraham 👋
 
 **AbrahamMulat/AbrahamMulat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
