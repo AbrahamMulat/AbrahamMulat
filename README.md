@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
  ###  Hi👋, I'm Abraham Mulat 
 <hr>
-I am a graduate student in software engineering with a deep passion for Computer Vision and Data Science. My objective is to become proficient in the field of Computer Vision and utilize it in real-world applications, particularly in the domain of healthcare. 
+I am a graduate student in software engineering with a deep passion for Computer Vision and Data Science. My goal is to become proficient in the field of Computer Vision and utilize it in real-world applications, particularly in the domain of healthcare. 
 <br> 
 <br>
 <h2> &nbsp;Quotes of the Day</h2>
