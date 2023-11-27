@@ -71,13 +71,13 @@ I am a graduate student in software engineering with a deep passion for Computer
    <a href="https://git-scm.com/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width=40, height=40/>
   </a>
-   <a href="">
+   <a href="https://github.com/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"  alt="Github" width=40, height=40/>
   </a>
    <a href="https://www.linux.org/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width=40, height=40/>
   </a>
-   <a href="">
+   <a href="[https://](https://jupyter.org/)">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"  alt="Jupyter Notebook" width=40, height=40/>
   </a>
    <a href="https://www.mysql.com/">
