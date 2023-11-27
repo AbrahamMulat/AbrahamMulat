@@ -77,7 +77,7 @@ I am a graduate student in software engineering with a deep passion for Computer
    <a href="https://www.linux.org/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width=40, height=40/>
   </a>
-   <a href="[https://](https://jupyter.org/)">
+   <a href="https://jupyter.org/">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"  alt="Jupyter Notebook" width=40, height=40/>
   </a>
    <a href="https://www.mysql.com/">
