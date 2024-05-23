@@ -83,7 +83,9 @@ I am a graduate student in software engineering with a deep passion for Computer
    <a href="https://www.mysql.com/">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MYSQL" width=40, height=40/>
   </a>
-<a href="https://scikit-learn.org/" rel="nofollow"> <img src="https://camo.githubusercontent.com/69ce21304adac467a8251181f98932e1785abd9d718cdd8edc78d1abbf2dcb49/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f302f30352f5363696b69745f6c6561726e5f6c6f676f5f736d616c6c2e737667" alt="scikit_learn" width="40" height="40" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" style="max-width: 100%;"> </a>
+<a href="https://scikit-learn.org/"> 
+   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40" data-canonical-
+ </a>
   </p>   
 <br> <br>
 
