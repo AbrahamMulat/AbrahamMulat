@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- ###  Hi👋, I'm Abraham Mulat 
+ ###  Hi👋, I'm Abraham 
 <hr>
 I am a graduate student in software engineering with a deep passion for Computer Vision and Data Science. My goal is to become proficient in the field of Computer Vision and utilize it in real-world applications, particularly in the domain of healthcare. 
 <br> 
